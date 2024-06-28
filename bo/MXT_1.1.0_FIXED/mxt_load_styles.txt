@@ -1,0 +1,101 @@
+// ImGuiCol_WindowBg: <Index, R, G, B, A, Rainbow>
+2,0.06,0.06,0.06,0.7,0
+
+// ImGuiCol_Button: <Index, R, G, B, A, Rainbow>
+21,0,0,1,0,1
+
+// ImGuiCol_CheckMark: <Index, R, G, B, A, Rainbow>
+18,0,0,1,0,1
+
+// ImGuiCol_Separator: <Index, R, G, B, A, Rainbow>
+27,0,0,1,0,1
+
+// ImGuiCol_TextSelectedBg: <Index, R, G, B, A, Rainbow>
+42,0,0,1,0,1
+
+// ImGuiCol_MenuBarBg: <Index, R, G, B, A, Rainbow>
+13,0,0,1,0,1
+
+// ImGuiCol_FrameBgActive: <Index, R, G, B, A, Rainbow>
+9,0,0,1,0,1
+
+// ImGuiCol_Tab: <Index, R, G, B, A, Rainbow>
+33,0,0,1,0,1
+
+// ImGuiCol_ButtonActive: <Index, R, G, B, A, Rainbow>
+23,0,0,1,0,1
+
+// ImGuiCol_ButtonHovered: <Index, R, G, B, A, Rainbow>
+22,0,0,1,0,1
+
+// ImGuiCol_HeaderHovered: <Index, R, G, B, A, Rainbow>
+25,0,0,1,0,1
+
+// ImGuiCol_ScrollbarGrab: <Index, R, G, B, A, Rainbow>
+15,0,0,1,0,1
+
+// ImGuiCol_ScrollbarGrabHovered: <Index, R, G, B, A, Rainbow>
+16,0,0,1,0,1
+
+// ImGuiCol_SliderGrab: <Index, R, G, B, A, Rainbow>
+19,0,0,1,0,1
+
+// ImGuiCol_SliderGrabActive: <Index, R, G, B, A, Rainbow>
+20,0,0,1,0,1
+
+// ImGuiCol_ParticleFlakes: <Index, R, G, B, A, Rainbow>
+53,1,1,1,1,1
+
+// ImGuiCol_ParticleConnections: <Index, R, G, B, A, Rainbow>
+54,1,1,1,1,1
+
+// ImGuiCol_SnaplinesVisible: <Index, R, G, B, A, Rainbow>
+55,1,1,1,1,0
+
+// ImGuiCol_SnaplinesFriendly: <Index, R, G, B, A, Rainbow>
+56,0,0.78,0.65,1,0
+
+// ImGuiCol_SnaplinesEnemy: <Index, R, G, B, A, Rainbow>
+57,0.88,0.14,0.27,0.60,0
+
+// ImGuiCol_Crosshair: <Index, R, G, B, A, Rainbow>
+58,0,0,0,1,1
+
+// ImGuiCol_ESPVisible: <Index, R, G, B, A, Rainbow>
+59,1,1,1,1,0
+
+// ImGuiCol_ESPFriendly: <Index, R, G, B, A, Rainbow>
+60,0,0.78,0.65,0.7,0
+
+// ImGuiCol_ESPEnemy: <Index, R, G, B, A, Rainbow>
+61,0.88,0.14,0.27,0.60,0
+
+// ImGuiCol_ESPItems: <Index, R, G, B, A, Rainbow>
+62,0.97,0.97,0.44,1,0
+
+// ImGuiCol_ESPMissiles: <Index, R, G, B, A, Rainbow>
+63,0.76,0.29,0.21,1,0
+
+// ImGuiCol_ESPVehicles: <Index, R, G, B, A, Rainbow>
+64,1,0.43,0.89,1,0
+
+// ImGuiCol_StringESP: <Index, R, G, B, A, Rainbow>
+65,1,1,1,1,0
+
+// ImGuiCol_StringBG:  <Index, R, G, B, A, Rainbow>
+66,0,0,0,0.5,0
+
+// ImGuiCol_Tracers:  <Index, R, G, B, A, Rainbow>
+67,0,0,0,1,1
+
+// ImGuiCol_BonesFriendly:  <Index, R, G, B, A, Rainbow>
+68,0,0.78,0.65,0.7,0
+
+// ImGuiCol_BonesEnemy:  <Index, R, G, B, A, Rainbow>
+69,0.88,0.14,0.27,0.60,0
+
+// ImGuiCol_BonesVisible:  <Index, R, G, B, A, Rainbow>
+70,1,1,1,1,0
+
+// ImGuiCol_MiscBones:  <Index, R, G, B, A, Rainbow>
+71,1,0.57,0.96,1,0
